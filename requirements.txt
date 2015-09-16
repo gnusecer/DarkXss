@@ -1,0 +1,10 @@
+Flask
+Flask-Bcrypt
+Flask-HTTPAuth
+Flask-RESTful
+Flask-SQLAlchemy
+Flask-WTF
+Jinja2
+WTForms
+WTForms-Alchemy
+marshmallow
